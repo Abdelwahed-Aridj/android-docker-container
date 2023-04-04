@@ -20,6 +20,6 @@ docker run -itd --rm --privileged \
 </code>
 
 <div style="position:relative; display: flex; flex-wrap: nowrap;"> 
-    <img style='position:absolute; z-index:1;' src='sample.png' alt="sample.png"/>
-    <img style='position:absolute; z-index:1;' src='sample.png' alt="sample.png"/>
+    <img style='position:absolute; z-index:1;' src='1.png' alt="1.png"/>
+    <img style='position:absolute; z-index:1;' src='2.png' alt="2.png"/>
 </div> 
