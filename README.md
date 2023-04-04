@@ -18,3 +18,8 @@ docker run -itd --rm --privileged \
     androidboot.redroid_height=1920 \
     androidboot.redroid_dpi=480 \
 </code>
+
+<div style="position:relative; display: flex; flex-wrap: nowrap;"> 
+    <img style='position:absolute; z-index:1;' src='sample.png' alt="sample.png"/>
+    <img style='position:absolute; z-index:1;' src='sample.png' alt="sample.png"/>
+</div> 
